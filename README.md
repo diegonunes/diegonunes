@@ -2,7 +2,7 @@
 <p align="left">👋 Olá, meu nome é <strong>Diego Nunes</strong> e sou <strong>Desenvolvedor Front-end e Back-end</strong>.</p>
 <p align="left">👨‍💻 Tenho conhecimentos em <strong>HTML5, CSS3, Bootstrap, Javascript e PHP</strong>.
 <p align="left">📚 No momento estou estudando <strong>React e Wordpress</strong>.</p>
-<p align="left">👨🏻‍🏫 Sou discente do 4° semestre do curso de <strong>Sistemas Para Internet</strong>, na <a href="http://www.unisinos.br/">Unisinos</a></p>
+<p align="left">👨🏻‍🏫 Sou discente do 5° semestre do curso de <strong>Sistemas Para Internet</strong>, na <a href="http://www.unisinos.br/">Unisinos</a></p>
 <p align="left">🧑‍🔬 Além dos meus projetos aqui, faço experimentos no Codepen <a href="https://codepen.io/diegonunes" alt="Codepen">
 <img src="https://img.shields.io/badge/-diegonunes-1E1F26?style=flat-square&logo=Codepen&logoColor=white&link=https://www.linkedin.com/in/iuricode" /></a></p>
 <p align="left">🗣️ Você pode entrar em contato comigo pelo email <a href="mailto:diegonunesdev@gmail.com" alt="Gmail"><img src="https://img.shields.io/badge/-diegonunesdev@gmail.com-dd4b39?style=flat-square&labelColor=dd4b39&logo=gmail&logoColor=white&link=diegonunesdev@gmail.com" /></a></p>
